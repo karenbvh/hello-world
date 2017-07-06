@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello humans.
+
+I am Karen and I like coffee and delicious food.
